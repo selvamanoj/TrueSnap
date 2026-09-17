@@ -1,0 +1,14 @@
+TRUESNAP — REDESIGNED
+=====================
+
+pip install -r requirements.txt
+python main.py
+
+NEW
+- Entirely new UI (large preview + intelligence report panel)
+- Full written report about the image
+- Use-case notes (e.g. screenshot evidence framing)
+- Soft AI-tool signals with limitations stated
+- Compare mode writes clear difference explanations
+- Click preview for full-size view
+- Auto case notes
